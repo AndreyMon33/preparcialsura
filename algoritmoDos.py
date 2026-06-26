@@ -1,24 +1,24 @@
-#Necesito crear un programa en python que me permita registrar 5 prendas de vestir
-#producto_Uno = str(input("Digita el nombre del producto 1: "))
-#producto_Dos = str(input("Digita el nombre del producto 2: "))
-#producto_Tres = str(input("Digita el nombre del producto 3: "))
-#producto_Cuatro = str(input("Digita el nombre del producto 4: "))
-#producto_Cinco = str(input("Digita el nombre del producto 5: "))
+"""#Necesito crear un programa en python que me permita registrar 5 prendas de vestir
+producto_Uno = str(input("Digita el nombre del producto 1: "))
+producto_Dos = str(input("Digita el nombre del producto 2: "))
+producto_Tres = str(input("Digita el nombre del producto 3: "))
+producto_Cuatro = str(input("Digita el nombre del producto 4: "))
+producto_Cinco = str(input("Digita el nombre del producto 5: "))
 
-#print(f"Los productos ingresados fueron: {producto_Uno}, {producto_Dos}, {producto_Tres}, {producto_Cuatro} y {producto_Cinco}")
+print(f"Los productos ingresados fueron: {producto_Uno}, {producto_Dos}, {producto_Tres}, {producto_Cuatro} y {producto_Cinco}")
 
-#marca_uno = str(input("Ingrese el nombre de la priemra marca: "))
-#marca_dos = str(input("Ingrese el nombre de la segunda marca: "))
-#marca_tres = str(input("Ingrese el nombre de la tercera marca: "))
+marca_uno = str(input("Ingrese el nombre de la priemra marca: "))
+marca_dos = str(input("Ingrese el nombre de la segunda marca: "))
+marca_tres = str(input("Ingrese el nombre de la tercera marca: "))
 
-#print(f"Las marcas registradas son: {marca_uno}, {marca_dos} y {marca_tres}")
+print(f"Las marcas registradas son: {marca_uno}, {marca_dos} y {marca_tres}")
 
-#Necesito crear 1 000 000 prendas
-#id
-#tipo
-#marca
-#precio
-#estado
+Necesito crear 1 000 000 prendas
+id
+tipo
+marca
+precio
+estado"""
 
 import random
 
